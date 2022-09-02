@@ -1,5 +1,5 @@
 # MySQL_Project
-MySQL project is mostly concentrated on quering part of SQL. The difficulty level changes from very basics to extremly hard queries.
+MySQL project is mostly concentrated on quering part of SQL. The difficulty level changes from very basics to extremely hard queries.
 Project covers almost every aspect of MySQL.
 
 # Database diagramm:
